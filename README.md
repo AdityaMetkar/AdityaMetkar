@@ -3,11 +3,11 @@
 ## Hello There :wave: , I'm Aditya Metkar 
 
 
-I am a Third Year student pursuing a BTech degree in Computer Science and Engineering (AI & ML). <br>
+I am a Third-year student pursuing a BTech degree in Computer Science and Engineering (AI & ML). <br>
 I am a Full Stack Web Developer and Deep Learning Enthusiast. Compititive Programming is also my side Hobby.
 
 
-- :computer: I’m currently working on Deep Learning Projects Including Technologies GANs, NLP and Full Stack Web Applications
+- :computer: I’m currently working on Deep Learning Projects Including Models like GANs, NLP and Full Stack Web Applications
   
 - :pencil: I’m currently learning Data Structures and Algorithms, Cloud Architectures(AWS, Azure, GCP) and Django
 
