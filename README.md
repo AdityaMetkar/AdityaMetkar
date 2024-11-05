@@ -3,11 +3,11 @@
 ## Hello There :wave: , I'm Aditya Metkar 
 
 
-I am a Third-year student pursuing a BTech degree in Computer Science and Engineering (AI & ML). <br>
-I am a Full Stack Web Developer and Deep Learning Enthusiast. Compititive Programming is also my side Hobby.
+I am a Final year student pursuing a BTech degree in Computer Science and Engineering (AI & ML). <br>
+I am a Full Stack Web Developer and Deep Learning Enthusiast. Also addicted to Compititive Programming.
 
 
-- :computer: I’m currently working on Deep Learning Projects Including Models like GANs, NLP and Full Stack Web Applications
+- :computer: I’m currently working on NextJS Projects, creating Admin Dashboards and Portfolio Pages.
   
 - :pencil: I’m currently learning Data Structures and Algorithms, Cloud Architectures(AWS, Azure, GCP) and Django
 
@@ -40,6 +40,7 @@ I am a Full Stack Web Developer and Deep Learning Enthusiast. Compititive Progra
 #### > Web Development
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-Redux-orange?style=for-the-badge&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Nodejs](https://img.shields.io/badge/-flask-black?style=for-the-badge&logo=flask)
